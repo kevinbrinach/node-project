@@ -1,0 +1,10 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kevin <kevinbrinach@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node --watch index.js"
+  }
+}
